@@ -1,0 +1,41 @@
+body {
+    background-color: lime;
+}
+
+#score {
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+#timer {
+    font-size: 30px;
+    float: right;
+    margin-right: 60px;
+}
+
+p {
+    font-size: 25px;
+}
+
+p,
+span,
+h1 {
+    font-weight: bold;
+}
+
+#question {
+    color: red;
+}
+
+h1 {
+    background-color: lightyellow;
+    height: 50px;
+    padding-top: 5px;
+    color: blue;
+}
+
+#show_sketch {
+    float: right;
+    margin-right: 20px;
+    margin-left: -110px;
+}
